@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-10-25T01:48:57.135Z",
+  "volumes": [
+    {
+      "id": "v1",
+      "title": "新民主主义革命时期",
+      "sourceKind": "vision",
+      "chapters": [
+        {
+          "id": "v1-c1",
+          "title": "中国共产党的创建和投身大革命的洪流",
+          "from": 27,
+          "to": 117,
+          "printStart": 2,
+          "charCount": 53537,
+          "pageCount": 91,
+          "blockCount": 331,
+          "chapterNo": 1,
+          "sectionCount": 28,
+          "sectionLevel2Count": 8
+        },
+        {
+          "id": "v1-c2",
+          "title": "掀起土地革命风暴",
+          "from": 119,
+          "to": 203,
+          "printStart": 94,
+          "charCount": 48946,
+          "pageCount": 85,
+          "blockCount": 326,
+          "chapterNo": 2,
+          "sectionCount": 25,
+          "sectionLevel2Count": 8
+        },
+        {
+          "id": "v1-c3",
+          "title": "全民族抗战的中流砥柱",
+          "from": 205,
+          "to": 287,
+          "printStart": 180,
+          "charCount": 45573,
+          "pageCount": 83,
+          "blockCount": 320,
+          "chapterNo": 3,
+          "sectionCount": 27,
+          "sectionLevel2Count": 8
+        },
+        {
+          "id": "v1-c4",
+          "title": "夺取新民主主义革命的伟大胜利",
+          "from": 289,
+          "to": 372,
+          "printStart": 264,
+          "charCount": 46626,
+          "pageCount": 84,
+          "blockCount": 301,
+          "chapterNo": 4,
+          "sectionCount": 28,
+          "sectionLevel2Count": 9
+        }
+      ]
+    },
+    {
+      "id": "v2",
+      "title": "社会主义革命和建设时期",
+      "sourceKind": "text",
+      "chapters": [
+        {
+          "id": "v2-c5",
+          "title": "中华人民共和国的成立和社会主义制度的建立",
+          "from": 10,
+          "to": 118,
+          "printStart": 348,
+          "charCount": 67055,
+          "pageCount": 109,
+          "blockCount": 317,
+          "chapterNo": 5,
+          "sectionCount": 33,
+          "sectionLevel2Count": 6
+        },
+        {
+          "id": "v2-c6",
+          "title": "社会主义建设在探索中的良好开端和曲折发展",
+          "from": 120,
+          "to": 212,
+          "printStart": 458,
+          "charCount": 62230,
+          "pageCount": 93,
+          "blockCount": 271,
+          "chapterNo": 6,
+          "sectionCount": 30,
+          "sectionLevel2Count": 7
+        },
+        {
+          "id": "v2-c7",
+          "title": "“文化大革命”的内乱和对内乱的抵制与抗争",
+          "from": 214,
+          "to": 290,
+          "printStart": 552,
+          "charCount": 53239,
+          "pageCount": 77,
+          "blockCount": 217,
+          "chapterNo": 7,
+          "sectionCount": 24,
+          "sectionLevel2Count": 7
+        }
+      ]
+    },
+    {
+      "id": "v3",
+      "title": "改革开放和社会主义现代化建设新时期",
+      "sourceKind": "text",
+      "chapters": [
+        {
+          "id": "v3-c8",
+          "title": "伟大转折和成功开创中国特色社会主义",
+          "from": 11,
+          "to": 143,
+          "printStart": 630,
+          "charCount": 82479,
+          "pageCount": 133,
+          "blockCount": 389,
+          "chapterNo": 8,
+          "sectionCount": 34,
+          "sectionLevel2Count": 10
+        },
+        {
+          "id": "v3-c9",
+          "title": "成功把中国特色社会主义推向21世纪",
+          "from": 145,
+          "to": 249,
+          "printStart": 764,
+          "charCount": 67573,
+          "pageCount": 105,
+          "blockCount": 295,
+          "chapterNo": 9,
+          "sectionCount": 31,
+          "sectionLevel2Count": 9
+        },
+        {
+          "id": "v3-c10",
+          "title": "成功在新形势下坚持和发展中国特色社会主义",
+          "from": 251,
+          "to": 362,
+          "printStart": 870,
+          "charCount": 71862,
+          "pageCount": 112,
+          "blockCount": 301,
+          "chapterNo": 10,
+          "sectionCount": 27,
+          "sectionLevel2Count": 9
+        }
+      ]
+    },
+    {
+      "id": "v4",
+      "title": "中国特色社会主义新时代",
+      "sourceKind": "text",
+      "chapters": [
+        {
+          "id": "v4-c11",
+          "title": "开创中国特色社会主义新时代",
+          "from": 9,
+          "to": 355,
+          "printStart": 982,
+          "charCount": 244805,
+          "pageCount": 347,
+          "blockCount": 875,
+          "chapterNo": 11,
+          "sectionCount": 66,
+          "sectionLevel2Count": 16
+        }
+      ]
+    }
+  ]
+}
